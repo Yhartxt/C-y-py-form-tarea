@@ -58,7 +58,7 @@ namespace Formutilin
             float Altrua = float.Parse(Txb_Estaura.Text);
             int edad = int.Parse(Txb_Edad.Text);
             string genero = lbl_masculino.Checked ? "Masculino" : "Femenino";
-            string cnt = $"Nombre: {nombre}\nApellido {apelli}\n Telefono {telefono}\nAltura {Altrua}\nGenero {genero}";
+            string cnt = $"Nombre: {nombre}\nApellido: {apelli}\n Telefono: {telefono}\nAltura {Altrua}\nGenero: {genero}";
             string Archivo = @"D:\Users\gisel\Formulario echo.txt";
             File.WriteAllText(Archivo, cnt);
             MessageBox.Show("Se a guardado con exito");
