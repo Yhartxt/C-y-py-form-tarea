@@ -1,0 +1,10 @@
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\obj\Debug\Formutilin.csproj.AssemblyReference.cache
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\obj\Debug\Formutilin.Form1.resources
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\obj\Debug\Formutilin.Properties.Resources.resources
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\obj\Debug\Formutilin.csproj.GenerateResource.cache
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\obj\Debug\Formutilin.csproj.CoreCompileInputs.cache
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\bin\Debug\Formutilin.exe.config
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\bin\Debug\Formutilin.exe
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\bin\Debug\Formutilin.pdb
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\obj\Debug\Formutilin.exe
+D:\Users\gisel\Documents\trabajo vs\Formutilin\Formutilin\obj\Debug\Formutilin.pdb
